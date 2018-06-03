@@ -1,0 +1,9 @@
+Library\BaseTest.class
+Test1\testTwitter.class
+Library\BasePage.class
+Library\AutoConst.class
+Test1\testLinkedin.class
+Test1\testInstagram.class
+POM\GoogleSearchResultPO.class
+POM\GoogleHomePO.class
+Test1\testFacebook.class

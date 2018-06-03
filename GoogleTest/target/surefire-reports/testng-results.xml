@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="123750" started-at="2018-06-02T06:30:04Z" finished-at="2018-06-02T06:32:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="123750" started-at="2018-06-02T06:30:04Z" finished-at="2018-06-02T06:32:07Z">
+      <class name="Test1.testLinkedin">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:Test1.testLinkedin@1e67b872]" name="LaunchBrowser" is-config="true" duration-ms="3346" started-at="2018-06-02T06:31:19Z" finished-at="2018-06-02T06:31:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="TestLinkedin()[pri:0, instance:Test1.testLinkedin@1e67b872]" name="TestLinkedin" duration-ms="44370" started-at="2018-06-02T06:31:22Z" finished-at="2018-06-02T06:32:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestLinkedin -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:Test1.testLinkedin@1e67b872]" name="CloseBrowser" is-config="true" duration-ms="817" started-at="2018-06-02T06:32:07Z" finished-at="2018-06-02T06:32:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Test1.testLinkedin -->
+      <class name="Test1.testTwitter">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:Test1.testTwitter@5d624da6]" name="LaunchBrowser" is-config="true" duration-ms="3786" started-at="2018-06-02T06:30:46Z" finished-at="2018-06-02T06:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="TestTwitter()[pri:0, instance:Test1.testTwitter@5d624da6]" name="TestTwitter" duration-ms="28191" started-at="2018-06-02T06:30:50Z" finished-at="2018-06-02T06:31:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestTwitter -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:Test1.testTwitter@5d624da6]" name="CloseBrowser" is-config="true" duration-ms="836" started-at="2018-06-02T06:31:18Z" finished-at="2018-06-02T06:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Test1.testTwitter -->
+      <class name="Test1.testInstagram">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:Test1.testInstagram@2ef9b8bc]" name="LaunchBrowser" is-config="true" duration-ms="3517" started-at="2018-06-02T06:30:26Z" finished-at="2018-06-02T06:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="TestInstagram()[pri:0, instance:Test1.testInstagram@2ef9b8bc]" name="TestInstagram" duration-ms="15274" started-at="2018-06-02T06:30:30Z" finished-at="2018-06-02T06:30:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestInstagram -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:Test1.testInstagram@2ef9b8bc]" name="CloseBrowser" is-config="true" duration-ms="743" started-at="2018-06-02T06:30:45Z" finished-at="2018-06-02T06:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Test1.testInstagram -->
+      <class name="Test1.testFacebook">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:Test1.testFacebook@5315b42e]" name="LaunchBrowser" is-config="true" duration-ms="4395" started-at="2018-06-02T06:30:04Z" finished-at="2018-06-02T06:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="FaceBookTest()[pri:0, instance:Test1.testFacebook@5315b42e]" name="FaceBookTest" duration-ms="17547" started-at="2018-06-02T06:30:08Z" finished-at="2018-06-02T06:30:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FaceBookTest -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:Test1.testFacebook@5315b42e]" name="CloseBrowser" is-config="true" duration-ms="893" started-at="2018-06-02T06:30:26Z" finished-at="2018-06-02T06:30:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- Test1.testFacebook -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
